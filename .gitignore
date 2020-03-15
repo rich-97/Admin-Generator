@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# For the development of this project i cant upload backend schema representations
+# Just ignore this folder and document it
+# In the future i going to upload this folder with examples of resources
+# And others repository with a Rails example of a REST API backend
+/src/resources/*
+!/src/resources/.gitkeep
